@@ -1,3 +1,4 @@
+## simple_registration_with_fastapi_users is a simple example of authorization, login and logout implemented in Python using the FastAPI Users library.
 # Installation
 Open your project's dertory.\
 In the terminal, run the commands:
